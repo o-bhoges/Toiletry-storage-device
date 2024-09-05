@@ -26,3 +26,7 @@ All files above are named as to what they are.
 
 ### Finished Design Pic 6
 ![Finished Design Pic 6](finished%20design%20pic%206.png)
+
+## STL Files
+
+- [Final Assembled Piece Exploded STL](Final%20Assembled%20Piece%20Exploded.stl)
