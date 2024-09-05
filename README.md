@@ -29,4 +29,4 @@ All files above are named as to what they are.
 
 ## STL Files
 
-- [Final Assembled Piece Exploded STL](Final%20Assembled%20Piece%20Exploded.stl)
+- [Final Assembled Piece Exploded STL](https://github.com/o-bhoges/Toiletry-storage-device/blob/main/Final%20Assembled%20Peice%20exploded.stl)
